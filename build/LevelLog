@@ -304,3 +304,1409 @@
 [Sat Feb 15 10:18:26 2025] ThreadID[15488]	[INFO]	H2B Imported: Wall.h2b
 [Sat Feb 15 10:18:26 2025] ThreadID[15488]	[MESSAGE]	Importing of .H2B File Data Complete.
 [Sat Feb 15 10:18:26 2025] ThreadID[15488]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Play.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Space.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:55:28 2025] ThreadID[22100]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:55:30 2025] ThreadID[22100]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Play.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Space.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:56:18 2025] ThreadID[15232]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:56:20 2025] ThreadID[15232]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	Play.h2b
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	Space.h2b
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 10:56:43 2025] ThreadID[6108]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:56:44 2025] ThreadID[6108]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:56:45 2025] ThreadID[6108]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Play.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Space.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:57:45 2025] ThreadID[23312]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:57:47 2025] ThreadID[23312]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Play.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Space.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:59:25 2025] ThreadID[16684]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 10:59:27 2025] ThreadID[16684]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Play.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Space.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 15:30:03 2025] ThreadID[25744]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 15:30:04 2025] ThreadID[25744]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 15:30:05 2025] ThreadID[25744]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 15:30:05 2025] ThreadID[25744]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 15:30:05 2025] ThreadID[25744]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 15:30:05 2025] ThreadID[25744]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Play.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Space.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 15:36:10 2025] ThreadID[6596]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 15:36:12 2025] ThreadID[6596]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Play.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Space.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 15:58:38 2025] ThreadID[13380]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:03:03 2025] ThreadID[13380]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:04:05 2025] ThreadID[13380]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Play.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Space.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:51:11 2025] ThreadID[14192]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:51:19 2025] ThreadID[14192]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Play.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Space.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:54:23 2025] ThreadID[19252]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:54:24 2025] ThreadID[19252]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Play.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Space.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:57:15 2025] ThreadID[21564]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 16:57:16 2025] ThreadID[21564]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 16:57:17 2025] ThreadID[21564]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:57:17 2025] ThreadID[21564]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 16:57:17 2025] ThreadID[21564]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 16:57:17 2025] ThreadID[21564]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:57:17 2025] ThreadID[21564]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Play.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Space.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:57:59 2025] ThreadID[25980]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:58:01 2025] ThreadID[25980]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Play.h2b
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Space.h2b
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:58:58 2025] ThreadID[24612]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:58:59 2025] ThreadID[24612]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 16:59:01 2025] ThreadID[24612]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:01:13 2025] ThreadID[7784]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:01:14 2025] ThreadID[7784]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:01:16 2025] ThreadID[7784]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:01:35 2025] ThreadID[17196]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:01:36 2025] ThreadID[17196]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:01:37 2025] ThreadID[17196]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:02:29 2025] ThreadID[25704]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:02:31 2025] ThreadID[25704]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:03:45 2025] ThreadID[21572]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:03:46 2025] ThreadID[21572]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:03:47 2025] ThreadID[21572]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:03:47 2025] ThreadID[21572]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:03:47 2025] ThreadID[21572]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:03:47 2025] ThreadID[21572]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:03:47 2025] ThreadID[21572]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:03:53 2025] ThreadID[21572]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:03:55 2025] ThreadID[21572]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:04:06 2025] ThreadID[18472]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:04:08 2025] ThreadID[18472]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:07:32 2025] ThreadID[21944]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:07:34 2025] ThreadID[21944]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:08:37 2025] ThreadID[4200]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:08:40 2025] ThreadID[4200]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:09:30 2025] ThreadID[19776]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:09:31 2025] ThreadID[19776]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:09:31 2025] ThreadID[19776]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:09:31 2025] ThreadID[19776]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:09:32 2025] ThreadID[19776]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:10:39 2025] ThreadID[18292]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:10:40 2025] ThreadID[18292]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:10:41 2025] ThreadID[18292]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:10:41 2025] ThreadID[18292]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:10:41 2025] ThreadID[18292]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:10:41 2025] ThreadID[18292]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:10:54 2025] ThreadID[18292]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:10:56 2025] ThreadID[18292]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:11:09 2025] ThreadID[14836]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:11:17 2025] ThreadID[14836]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:11:44 2025] ThreadID[25260]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:11:45 2025] ThreadID[25260]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Play.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	Boundary: Left -1.413203 Right 1.047561 Bottom -0.050000 Top 0.050000 Near -0.242821 Far 0.301585
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	Boundary: Left -1.661202 Right 1.630869 Bottom -1.490260 Top 1.475726 Near -3.623279 Far 6.035522
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Shooty.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	Boundary: Left -5.106903 Right 4.705232 Bottom -0.050000 Top 0.050000 Near -0.261108 Far 0.280393
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Space.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	Boundary: Left -25.000000 Right 25.000000 Bottom 0.000000 Top 0.000000 Near -25.000000 Far 25.000000
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	SpaceStation.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	Boundary: Left -74.572487 Right 74.597420 Bottom -57.332737 Top 53.263046 Near -56.816372 Far 52.718380
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	H2B Imported: Play.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	H2B Imported: Shooty.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	H2B Imported: Space.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[INFO]	H2B Imported: SpaceStation.h2b
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:14:45 2025] ThreadID[588]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[EVENT]	LOADING GAME LEVEL [DATA ORIENTED]
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Begin Reading Game Level Text File.
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Asteroid1.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -5.014176 Right 5.325743 Bottom -0.203909 Top 12.887751 Near -5.678571 Far 4.095298
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Asteroid2.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -7.387936 Right 7.103675 Bottom -0.903800 Top 12.457983 Near -6.166671 Far 6.616704
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Bullet.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -0.554330 Right 0.589906 Bottom 1.103265 Top 2.103265 Near -0.580944 Far 0.580943
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Ground.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -57.383774 Right 57.383774 Bottom 0.000000 Top 0.000000 Near -46.947014 Far 46.947014
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Ship.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -1.648858 Right 1.643213 Bottom -1.398483 Top 1.567503 Near -5.740459 Far 3.918342
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	UFO1.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -1.996910 Right 2.166648 Bottom 0.000000 Top 1.420096 Near -2.069348 Far 2.069348
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.158493 Far 45.158493
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -45.763180 Far 45.763180
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -56.050789 Far 56.050789
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Wall.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	Boundary: Left -0.250000 Right 0.250000 Bottom -1.250000 Top 1.250000 Near -55.181355 Far 55.181355
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Game Level File Reading Complete.
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Begin Importing .H2B File Data.
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Asteroid1.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Asteroid2.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Bullet.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Ground.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Ship.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: UFO1.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[INFO]	H2B Imported: Wall.h2b
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[MESSAGE]	Importing of .H2B File Data Complete.
+[Sat Feb 15 17:14:47 2025] ThreadID[588]	[EVENT]	GAME LEVEL WAS LOADED TO CPU [DATA ORIENTED]

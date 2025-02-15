@@ -175,7 +175,7 @@ namespace GAME
 						auto& enemyVelocity = registry.emplace<Velocity>(newEnemy, Velocity{ UTIL::GetRandomVelocityVector() });
 
 						// **Pick a random enemy type**
-						std::vector<std::string> enemyKeys = { "Enemy1", "Enemy2"/*, "Enemy3", "Enemy4", "Enemy5"*/ }; // Add more later
+						std::vector<std::string> enemyKeys = { "Enemy1", "Enemy2", "Enemy3"/*, "Enemy4", "Enemy5"*/ }; // Add more later
 						int randIndex = rand() % enemyKeys.size();
 						std::string selectedEnemy = enemyKeys[randIndex];
 

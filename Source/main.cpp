@@ -284,8 +284,8 @@ void GameplayBehavior(entt::registry& registry)
 	auto& enemy3Meshes = registry.emplace<DRAW::MeshCollection>(enemy3_ufo);
 	auto& enemy3Transform = registry.emplace<GAME::Transform>(enemy3_ufo);
 	auto& enemy3Velocity = registry.emplace<GAME::Velocity>(enemy3_ufo, GAME::Velocity{ UTIL::GetRandomVelocityVector() });
-	registry.emplace<GAME::Health>(enemy3_ufo, GAME::Health{ config.get()->at("Enemy3").at("hitpoints").as<int>() });
-	GW::MATH::GVector::ScaleF(enemy3Velocity.velocity, config.get()->at("Enemy3").at("speed").as<float>(), enemy3Velocity.velocity);
+	registry.emplace<GAME::Health>(enemy3_ufo, GAME::Health{ config.get()->at("UFO1").at("hitpoints").as<int>() });
+	GW::MATH::GVector::ScaleF(enemy3Velocity.velocity, config.get()->at("UFO1").at("speed").as<float>(), enemy3Velocity.velocity);
 
 
 
@@ -302,7 +302,8 @@ void GameplayBehavior(entt::registry& registry)
 	UTIL::CreateDynamicObjects(registry, enemy2Model, enemy2Meshes, enemy2Transform);
 
 	std::cout << "Loading Enemy3 Model\n";
-	auto enemy3Model = config.get()->at("Enemy3").at("model").as<std::string>();
+	auto enemy3Model = config.get()->at("Enemy2").at("model").as<std::string>();
+	//enemy3Model = "Wall";
 	UTIL::CreateDynamicObjects(registry, enemy3Model, enemy3Meshes, enemy3Transform);
 	// Create Game Manager
 	auto gameManager = registry.create();
