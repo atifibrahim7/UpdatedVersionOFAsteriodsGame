@@ -302,7 +302,7 @@ void GameplayBehavior(entt::registry& registry)
 	UTIL::CreateDynamicObjects(registry, enemy2Model, enemy2Meshes, enemy2Transform);
 
 	std::cout << "Loading Enemy3 Model\n";
-	auto enemy3Model = config.get()->at("Enemy2").at("model").as<std::string>();
+	auto enemy3Model = config.get()->at("UFO1").at("model").as<std::string>();
 	//enemy3Model = "Wall";
 	UTIL::CreateDynamicObjects(registry, enemy3Model, enemy3Meshes, enemy3Transform);
 	// Create Game Manager
