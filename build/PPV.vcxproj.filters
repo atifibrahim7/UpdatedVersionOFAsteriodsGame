@@ -1,0 +1,168 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\build\CMakeFiles\PPV.dir\cmake_pch.cxx">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\CCL.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\VulkanBuffers.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\VulkanRenderer.cpp">
+      <Filter>Source\DRAW</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\GameManager.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\LevelCompontents.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\Player.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\UI.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\UTIL\GameConfig.cpp">
+      <Filter>Source\UTIL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\UTIL\Utilities.cpp">
+      <Filter>Source\UTIL</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\main.cpp">
+      <Filter>Source</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\APP\Window.hpp">
+      <Filter>Source\APP</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\BLIT_Font.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\CCL.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\DrawComponents.h">
+      <Filter>Source\DRAW</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\Utility\FileIntoString.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\Utility\h2bParser.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\DRAW\Utility\load_data_oriented.h">
+      <Filter>Source\DRAW\Utility</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\FileIntoString.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\Font.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\GAME\GameComponents.h">
+      <Filter>Source\GAME</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\Overlay.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\UTIL\GameConfig.h">
+      <Filter>Source\UTIL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\UTIL\Utilities.h">
+      <Filter>Source\UTIL</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Source\precompiled.h">
+      <Filter>Source</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\entt-3.13.1\single_include\entt\entt.hpp">
+      <Filter>entt-3.13.1\single_include\entt</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\gateware-main\Gateware.h">
+      <Filter>gateware-main</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\inifile-cpp-master\include\inicpp.h">
+      <Filter>inifile-cpp-master\include</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\build\CMakeFiles\PPV.dir\Debug\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\build\CMakeFiles\PPV.dir\Release\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\build\CMakeFiles\PPV.dir\MinSizeRel\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\build\CMakeFiles\PPV.dir\RelWithDebInfo\cmake_pch.hxx">
+      <Filter>Precompile Header File</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Shaders\LevelPixel.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Shaders\LevelVertex.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Shaders\OverlayFragment.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\Shaders\OverlayVertex.hlsl">
+      <Filter>Shaders</Filter>
+    </None>
+    <None Include="C:\Users\Dell\Downloads\folder2\folder2\projecttemplate\ProjectTemplate\defaults.ini" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Precompile Header File">
+      <UniqueIdentifier>{FE91B4BD-4CFC-397D-8A7E-7E3CAB043A6F}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Shaders">
+      <UniqueIdentifier>{26797770-AC04-3328-8C0C-416C808703AE}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source">
+      <UniqueIdentifier>{B864A2DF-E144-3B3C-A0CC-35AFE6A1E08D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{69A83967-A02C-32DC-8CB8-52998320962E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\APP">
+      <UniqueIdentifier>{FB4F0EDD-5C36-3A67-8D1B-E7C20E4935A9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DRAW">
+      <UniqueIdentifier>{21165BC4-402B-39B6-82F5-25F5855383A5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\DRAW\Utility">
+      <UniqueIdentifier>{44222A46-C610-360F-82C3-5D4A4C15E757}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GAME">
+      <UniqueIdentifier>{15159E49-4BA9-3624-A599-E8F5813163E7}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UTIL">
+      <UniqueIdentifier>{EA6575C1-E1A5-3D8D-AB8F-F1534575A4C5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1">
+      <UniqueIdentifier>{ADF79611-4842-3C93-9DF0-87E49BE1ADFF}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1\single_include">
+      <UniqueIdentifier>{46844C8D-85BF-32F6-B509-64BF35B9D88E}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="entt-3.13.1\single_include\entt">
+      <UniqueIdentifier>{B39E80AD-8ECB-341A-9DF1-29DE0DF61751}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gateware-main">
+      <UniqueIdentifier>{0205DDB4-F87F-32ED-92AA-317928AF6EB5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inifile-cpp-master">
+      <UniqueIdentifier>{01FFACE6-B2F1-3C72-8F75-A49569079610}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="inifile-cpp-master\include">
+      <UniqueIdentifier>{0291C4CF-5676-3FAF-BEE0-943859FBB82C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
